@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\march\Desktop\Computer Science\גרפים\GreedyColoring\GreedyColoring\main.c(23,36): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\march\Desktop\Computer Science\גרפים\GreedyColoring\GreedyColoring\main.c(31,31): warning C4013: 'calloc' undefined; assuming extern returning int
+C:\Users\march\Desktop\Computer Science\גרפים\GreedyColoring\GreedyColoring\main.c(95,7): warning C4013: 'free' undefined; assuming extern returning int
+  GreedyColoring.vcxproj -> C:\Users\march\Desktop\Computer Science\גרפים\GreedyColoring\Debug\GreedyColoring.exe
